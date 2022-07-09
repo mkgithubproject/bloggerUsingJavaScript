@@ -122,7 +122,7 @@ function edit_card(e) {
 }
 function logoutpage() {
     localStorage.removeItem("global_email");
-    window.location.href = "../html/domain.html";
+    window.location.href = "../index.html";
 
 }
 
