@@ -30,7 +30,7 @@ function create_blogs(){
 }
 function logoutpage(){
     localStorage.removeItem("global_email");
-    window.location.href="../html/domain.html";
+    window.location.href="../index.html";
 
 }
 
