@@ -22,7 +22,7 @@
 
 }
 .create_form{
-margin-top: 100px;
+margin-top: 50px;
 padding: 15px;
 border-radius: 20px;
 box-shadow: 0px 0px 10px 0px #000;
@@ -46,9 +46,6 @@ box-shadow: 0px 0px 10px 0px #000;
 }
 .footer{
   background-color: gainsboro;
-  left: 0px;
-  right: 0px;
   position: absolute;
   bottom: 0px;
-  
 }
