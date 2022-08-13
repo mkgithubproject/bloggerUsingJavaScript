@@ -36,7 +36,7 @@ function logoutpage(){
 
 function authent(){
     if(!localStorage.global_email){
-        window.location.href="../html/domain.html";
+        window.location.href="../html/index.html";
     }
     }
 
