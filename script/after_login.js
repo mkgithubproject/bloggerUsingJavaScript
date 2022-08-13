@@ -5,7 +5,7 @@ var filterarray = [];
 var index;
 function view_blogs() {
     if (!localStorage.global_email) {
-        window.location.href = "../html/domain.html";
+        window.location.href = "../html/index.html";
     }
 
 
